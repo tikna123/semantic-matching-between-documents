@@ -30,8 +30,8 @@ end up surfing through a lot of useless documents.
     * Semantically similar information retrieval (retrieving similar documents for a given document from a corpus). 
  
     As we deal with the study of semantics, we define it as the deeper similarity inthe meaning of the conceptsunderconsideration.
-<img src="https://github.com/tikna123/semantic-matching-between-documents/blob/main/images/im1.png" width="500">
-<img src="https://github.com/tikna123/semantic-matching-between-documents/blob/main/images/im2.PNG" width="500">
+<img src="https://github.com/tikna123/semantic-matching-between-documents/blob/main/images/im1.PNG" width="500">
+<img src="https://github.com/tikna123/semantic-matching-between-documents/blob/main/images/im2.png" width="500">
 <img src="https://github.com/tikna123/semantic-matching-between-documents/blob/main/images/im3.PNG" width="500">
 <img src="https://github.com/tikna123/semantic-matching-between-documents/blob/main/images/im4.PNG" width="500">
 <img src="https://github.com/tikna123/semantic-matching-between-documents/blob/main/images/im5.PNG" width="500">
